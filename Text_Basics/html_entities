@@ -1,0 +1,5 @@
+-->&NonBreakingSpace; - usually when we have any white or blank spaces in out html file, the web page don't consider them as they were not exists, but using this entity when we want a space in our html file we 
+can add this so that a white space will be present.
+--><abbr title=" matter " > content </abbr> :- Coming to this entity it is useful to add more abbrevation to a simplified word in our html file.
+-->&copy; :- it is useful entity where we want to specify copyright symbol
+-->&lt; or &gt; :- these are the entities we use to specify less than and greater than symbols in our html file.
