@@ -1,0 +1,11 @@
+UNORDERED LISTS :-
+these can be represented as a bullet points
+<ul>
+<li> ....content.... </li>
+<li> .....content....</li>
+</ul>
+for ex:
+My hobbies are:
+ . Dancing
+ . Coding
+ . drawing
