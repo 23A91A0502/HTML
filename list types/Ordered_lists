@@ -1,0 +1,14 @@
+There are three different types of lists,they are:
+- Ordered lists
+- Unordered lists
+- description lists
+
+ORDERED LISTS:-
+<ol>
+<li>.........content...........</li>      
+<li>...........content..........</li>
+</ol>
+For Ex:
+1. I love learning in FREECODECAMP platform.
+2. Currently I'm learning html and css.
+3. I love doing coding.
