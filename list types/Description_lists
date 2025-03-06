@@ -1,0 +1,11 @@
+DESCRIPTION LISTS:-
+    these are different from other types of lists. It consists of 2 terms, they are;
+- dt (description term) : what the description about 
+- dd (description details): the details that description contains
+for ex:
+<dl>
+ <dt> description term </dt>
+ <dd> description details </dd>
+ <dt> ............ </dt>
+ <dd> ............ </dt>
+</dl>
