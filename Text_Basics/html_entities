@@ -3,3 +3,5 @@ can add this so that a white space will be present.
 --><abbr title=" matter " > content </abbr> :- Coming to this entity it is useful to add more abbrevation to a simplified word in our html file.
 -->&copy; :- it is useful entity where we want to specify copyright symbol
 -->&lt; or &gt; :- these are the entities we use to specify less than and greater than symbols in our html file.
+<address> content </address> :- if we want to specify an location or address in html file, we can use this.
+<!-- This is how we can comment on html files -->
