@@ -1,0 +1,6 @@
+<a href = "link" > This is a link </a> :- This is called as "absolute reference" element 
+                                         Where we can link the url of that page in our present file.
+Ex: I want to open GOOGLE browser
+now i will link the url of google browser in my file using <a></a> element so that by clicking it,will take us to that google browser
+
+<a href="Google.com">Let's Go to the google browser</a>
